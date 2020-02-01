@@ -1,2 +1,2 @@
 # Rle-Compression-Java
-Rle Algorithme for Text Compression 
+Rle Algorithm for Text Compression 
